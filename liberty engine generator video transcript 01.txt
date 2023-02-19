@@ -1,0 +1,108 @@
+
+We repeat the process with three other microwave transformers We are going to manufacture the rotor with a special alloy mainly of aluminum and silver
+1:57
+Neodymium magnets N52
+2:05
+We glue the magnets with Epoxy adhesive
+2:50
+We fill with Epoxy resin
+2:56
+We let it dry for 24 hours...
+3:06
+We repeat with the other three slots
+3:16
+We have sealed the four slots
+3:37
+Now we are going to create the frame
+4:08
+We will make two pieces like this
+5:34
+We must center the rotor between the four coils
+6:00
+We have added a millimeter of thickness to be able to center the part
+7:50
+Perfectly centered
+8:19
+First functional test
+8:30
+If you want to see the UNEDITED version of the test you can access the long video from the description
+8:45
+We are going to leave the different parts of the motor open to see inside during the test
+8:59
+We connect these two coils in parallel
+9:13
+We will also connect the motor in parallel to the coils
+9:27
+Not that Let's make sure that the cables get caught in the moving parts
+9:36
+Later we will protect the rotor part with methacrylate
+9:48
+You can see that there are no hidden batteries because there is no voltage
+9:58
+We are going to start the engine with a cable, as in our previous prototype
+10:07
+After the test too we will improve this boot system
+10:19
+IT WORKS!
+10:29
+We will install some rubber feet to avoid vibrations
+10:45
+This is the result of 7 months of research on the "Liberty Engine 1"
+10:54
+We have increased power, reduced noise, and made the whole more stable
+11:03
+Some of the improvements have arisen from your comments. ..
+11:12
+Thanks to everyone who has contributed their knowledge during these months
+12:32
+For now we are going to connect a light bulb to check that the motor feeds correctly
+12:41
+At the end of the video, when the motor is finished, they have a much more extensive test
+13:20
+Disconnecting the cable turns off the motor...
+13:42
+We are going to disassemble it so that you can see that there are no hidden batteries
+14:00
+Remember that you have a version without cuts of all this test in the description
+15:27
+Now we go with the last details of the assembly
+17:54
+These LEDs work with a 220v driver
+20:34
+Inside the bases there are no hidden batteries either
+24:35
+Motor speed: 1400 RPM Output voltage: 230v AC
+24:42
+Maximum Power: 20,000w Rotor with Neodymium magnets
+24:51
+Starting by manual pull
+25:35
+Pulling the starter rotates the rotor with neodymium magnets. This makes the coils of the 230 volt microwave transformers begin to generate voltage
+25:45
+...voltage that is injected into the sockets, and into the motor, which makes to continue rotating the magnet rotor at a constant speed of 1400 RPM
+25:51
+... which makes it continue to produce constant electrical current and in a highly efficient way
+25:57
+By manufacturing the rotor with a special alloy of silver and aluminum we managed to reduce currents to zero de Eddy... It is much more efficient than the "Liberty Engine 1.0" because we have reduced friction by eliminating the transmission through pulleys and belt
+26:10
+Our engine is finished and ready to start testing
+26:27
+BASIC Performance test
+27:15
+First outdoor test
+32:03
+We are in the middle of the nature. No power nearby
+32:14
+Only the "Liberty Engine 2.0"
+32:22
+iMac 27" - Grinder - Drill - Water pump
+33:13
+You can see an extended version, where you see the entire manufacturing process and engine testing without cuts and without video editing, at the link you will find in the description of the video
+33:22
+Remember that you can support our work by becoming a member of the channel You can also share the video and give it a like so that this knowledge reaches more people
+33:30
+Thanks to all the members of the channel... and thanks for see us The "Liberty Engine" project is still running
+33:37
+Watch the extended version
+Get Geru Today
+
